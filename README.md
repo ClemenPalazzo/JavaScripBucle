@@ -1,0 +1,32 @@
+# Trabajo bucles JS
+
+Este proyecto contiene un script en JavaScript que solicita una cadena de texto al usuario y muestra la posición de la primera vocal en el texto.
+
+## Tecnologías Usadas
+
+- **JavaScript**: El lenguaje principal utilizado para escribir el script.
+- **HTML**: Utilizado para ejecutar el script en un navegador web.
+
+## Cómo Usar
+
+1. **Clonar el Repositorio**
+
+   Clona el repositorio en tu máquina local usando el siguiente comando:
+
+   ```bash
+   git clone https://github.com/ClemenPalazzo/JavaScripBucle.git/
+
+2. **Abre el archivo index.html en tu navegador web.**
+
+3. **Ingresa un número o texto cuando se te pida y observa el resultado en la pantalla.**
+
+# Ejemplo de uso
+
+## Descripción
+
+El script realiza las siguientes acciones:
+1. Solicita al usuario que ingrese una cadena de texto.
+2. Verifica si el usuario ha pulsado "Cancelar".
+3. Convierte el texto ingresado a minúsculas para simplificar la comparación.
+4. Recorre la cadena de texto para encontrar la primera vocal (a, e, i, o, u).
+5. Muestra un mensaje indicando la primera vocal encontrada y su posición en el texto. Si no se encuentran vocales, se muestra un mensaje indicando que no se encontraron vocales.
